@@ -1,0 +1,5 @@
+Key Word: sony
+Engine: phx-dkadu1
+Version: kadu.6918
+Response time: 63929
+Number of deals: 40
